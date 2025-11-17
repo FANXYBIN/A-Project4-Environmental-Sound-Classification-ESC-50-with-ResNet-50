@@ -1,0 +1,2 @@
+# A-Project5-Environmental-Sound-Classification-ESC-50-with-ResNet-50
+This project explored environmental sound classification using the ESC-50 dataset, converting audio clips into Mel spectrograms and training a fine-tuned ResNet-50 CNN model. The workflow included data preprocessing, spectrogram generation, augmentation (SpecAugment), model training, and evaluation with accuracy and confusion matrix metrics.
