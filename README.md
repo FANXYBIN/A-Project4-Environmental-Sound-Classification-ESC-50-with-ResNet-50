@@ -1,4 +1,4 @@
-# A-Project 5: Environmental Sound Classification (ESC-50) with ResNet-50
+# A-Project 4: Environmental Sound Classification (ESC-50) with ResNet-50
 
 
 This project explored **environmental sound classification** using the **ESC-50 dataset**, converting audio clips into **Mel spectrograms** and training a fine-tuned **ResNet-50 CNN model**.  
