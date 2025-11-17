@@ -21,11 +21,11 @@ The workflow included data preprocessing, spectrogram generation, augmentation (
 
 <div align="center">
   <img src="images/esc50_spectrogram_example.png" width="600"/>
-  <p><em>Mel Spectrogram with frequency & time masking (SpecAugment).</em></p>
+  <p><em>ESC-5 Dataset.</em></p>
 </div>
 <div align="center">
   <img src="images/Mel Spectrogram.png" width="600"/>
-  <p><em>Confusion matrix across 50 environmental sound classes.</em></p>
+  <p><em>Mel Spectrogram with frequency & time masking (SpecAugment).</em></p>
 </div>
 ---
 
